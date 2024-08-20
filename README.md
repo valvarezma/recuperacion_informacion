@@ -12,9 +12,9 @@ Vidal Alvarez Manuel
 
 - Introducción
 - Trabajos relacionados.
-- Marco teórico (conceptos que sustenten su propuesta)
+- Marco teórico
 - Análisis de Tareas
-- Propuesta: Algoritmos (backend) + Visualización (frontend)
+- Propuesta
 - Diseño Visual
 - Resultados: Casos de estudio
 - Discusión.
