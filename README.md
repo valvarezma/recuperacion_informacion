@@ -42,3 +42,5 @@ Este proyecto toma un conjunto de datos de pacientes y utiliza el algoritmo de K
    ```bash
    git clone https://github.com/tu_usuario/clusterizacion-pacientes.git
    cd clusterizacion-pacientes
+2. **Video explicativo**:
+   - https://youtu.be/A3zwcQkADRB
