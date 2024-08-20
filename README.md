@@ -1,18 +1,31 @@
-# Proyecto de Clusterización de Pacientes - Trabajo Final
+# MINERÍA DE DATOS Y CLUSTERING DE INFORMACIÓN PARA LA TOMA DE DECISIONES: ANÁLISIS DE LAS ATENCIONES DE ASEGURADOS SIS EN EL PRIMER NIVEL DE ATENCIÓN EN LA RED DE SALUD AREQUIPA-CAYLLOMA
 
 Este proyecto tiene como objetivo agrupar pacientes según sus diagnósticos y otros factores relevantes utilizando técnicas de **Machine Learning**, específicamente el algoritmo de **KMeans**. La clusterización permite identificar patrones en los datos de salud que pueden ser útiles para mejorar la atención médica y la gestión de los recursos.
 
+## Integrantes
+
+Vladimir Barrios
+Elker Garcia
+Vidal Alvarez Manuel
+
 ## Tabla de Contenidos
 
-- [Descripción del Proyecto](#descripción-del-proyecto)
-- [Archivos y Estructura del Proyecto](#archivos-y-estructura-del-proyecto)
-- [Requisitos](#requisitos)
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [Resultados](#resultados)
-- [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
-- [Contacto](#contacto)
+- Introducción
+- Resumen
+- Abstract
+- Keyword
+- Problema
+- Trabajos Relacionados
+- Marco Teórico
+- Análisis de Tareas
+- Minería de Datos con K-means
+- Área de Interés
+- Tópico
+- Artículo de Referencia
+- Variables Analizadas
+- Análisis Estadístico de Datos
+- Conclusión
+- Referencias
 
 ## Descripción del Proyecto
 
@@ -20,14 +33,8 @@ Este proyecto toma un conjunto de datos de pacientes y utiliza el algoritmo de K
 
 ## Archivos y Estructura del Proyecto
 
-- `DATA_SIS_Consolidada_Preproceso.csv`: Conjunto de datos preprocesados utilizado para la clusterización.
-- `cluster_pacientes.py`: Script principal que realiza la clusterización y visualización.
-- `README.md`: Este archivo README que describe el proyecto.
-- `requirements.txt`: Archivo con las dependencias necesarias para ejecutar el proyecto.
-
-## Requisitos
-
-Este proyecto requiere Python 3.7 o superior. Las dependencias necesarias están listadas en el archivo `requirements.txt`.
+- Toda la DATA en bruto y procesada se almacena en un repositorio en la nube (Google Drive), el cual se puede acceder a través del siguiente enlace
+- https://drive.google.com/drive/folders/1AhZeIT-cxGpTnjonvqVcUXI08OQjpK6H?usp=sharing
 
 ### Principales librerías utilizadas:
 
