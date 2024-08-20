@@ -11,21 +11,14 @@ Vidal Alvarez Manuel
 ## Tabla de Contenidos
 
 - Introducción
-- Resumen
-- Abstract
-- Keyword
-- Problema
-- Trabajos Relacionados
-- Marco Teórico
+- Trabajos relacionados.
+- Marco teórico (conceptos que sustenten su propuesta)
 - Análisis de Tareas
-- Minería de Datos con K-means
-- Área de Interés
-- Tópico
-- Artículo de Referencia
-- Variables Analizadas
-- Análisis Estadístico de Datos
-- Conclusión
-- Referencias
+- Propuesta: Algoritmos (backend) + Visualización (frontend)
+- Diseño Visual
+- Resultados: Casos de estudio
+- Discusión.
+- Conclusiones
 
 ## Descripción del Proyecto
 
